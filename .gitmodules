@@ -1,0 +1,3 @@
+[submodule "plate/lib/united_al_libs"]
+	path = plate/lib/united_al_libs
+	url = https://github.com/assassin1th/united_al_libs.git

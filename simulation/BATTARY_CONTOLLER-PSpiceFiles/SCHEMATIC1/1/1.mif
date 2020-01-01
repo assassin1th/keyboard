@@ -1,0 +1,4 @@
+ lib=C:\Cadence\SPB_16.6\tools\PSpice\Library\opamp.lib, offset=54585, size=371
+ lib=C:\Cadence\SPB_16.6\tools\PSpice\Library\irf.lib, offset=346928, size=1585
+ lib=C:\Cadence\SPB_16.6\tools\PSpice\Library\infineon.lib, offset=57227, size=343
+ lib=C:\Cadence\SPB_16.6\tools\PSpice\Library\opamp.lib, offset=53165, size=1419
